@@ -7,7 +7,16 @@
 
 
 <hr>
-<a href="palindrome.php">Plindrome</a>
+<ol>
+	<li>
+		
+        <a href="palindrome.php">Palindrome</a>
+	</li>
+	<li>
+        <a href="asterisk.php">Drawing with Asterisk</a>
+		
+	</li>
+</ol>
 
 
 <?php }; ?>
